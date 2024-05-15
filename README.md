@@ -1,4 +1,4 @@
-# project-devops
+# Projeto DevOps
 Projeto Acadêmico - DevOps
 
 Aplicação 
